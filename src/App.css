@@ -48,7 +48,7 @@
 
 .part {
     display: inline-block;
-    background-image: url(parts.jpeg);
+    background-image: url(/parts.jpeg);
     background-position: 1000px 0;
     background-repeat: no-repeat;
 }
