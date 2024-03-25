@@ -25,7 +25,7 @@ for (let i = 0; i < 4; i++) {
 }
 const mouthConfig = [];
 for (let i = 0; i < 4; i++) {
-    for (let j = 0; j < 5; j++) {
+    for (let j = 0; j < 6; j++) {
         mouthConfig.push({
             x: -WIDTH * i + DX_MOUTH[i],
             y: -389 -HEIGHT * j,
